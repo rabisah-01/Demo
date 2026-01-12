@@ -1,9 +1,2 @@
-print('hello')
-print("Second initiation")
-print(2)
-print('Third commit')
-print('fouth commit')
+print("Clearing alllll")
 
-
-
-print(34)
